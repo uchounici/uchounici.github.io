@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uchounici.github.io/sitemap.html.gz
+Sitemap: https://uchounici.github.io/app/sitemap.html.gz
+Sitemap: https://uchounici.github.io/assets/sitemap.html.gz
+Sitemap: https://uchounici.github.io/css/sitemap.html.gz
+Sitemap: https://uchounici.github.io/data/sitemap.html.gz
+Sitemap: https://uchounici.github.io/includes/sitemap.html.gz
+Sitemap: https://uchounici.github.io/item/sitemap.html.gz
+Sitemap: https://uchounici.github.io/src/sitemap.html.gz
